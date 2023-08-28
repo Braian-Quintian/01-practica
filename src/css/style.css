@@ -1,0 +1,18 @@
+.Header {
+    margin: auto;
+    padding: 10px;
+    background-color: #101a1a;
+    color: azure
+}
+
+.Section {
+    background-color: blue;
+}
+
+.Navbar {
+    background-color: rgb(247, 0, 255);
+}
+
+.Main {
+    background-color: rgb(255, 0, 0);
+}
